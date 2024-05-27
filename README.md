@@ -1,3 +1,3 @@
 # Search-Algorithms
 
-Finding optimal paths in a grid
+Finding optimal paths in a grid.
